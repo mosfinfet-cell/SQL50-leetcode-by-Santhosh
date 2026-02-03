@@ -15,3 +15,5 @@ This repository contains my solutions to the **LeetCode SQL 50** study plan. As 
 | # | Problem | Category | Solution | Difficulty |
 |---|---------|----------|----------|------------|
 | 1757 | [Recyclable and Low Fat Products] | Basic Select | [View Code](./Basic-Select/1757-Recyclable-and-Low-Fat-Products.sql) | Easy |
+| 584 | [Find-Customer-Referee] | Basic Select | [View Code](./Basic-Select/585-Find-Customer-Referee.sql) | Easy |
+

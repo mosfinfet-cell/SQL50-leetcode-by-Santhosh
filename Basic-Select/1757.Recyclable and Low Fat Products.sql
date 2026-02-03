@@ -1,0 +1,14 @@
+/*
+Problem: 1757. Recyclable and Low Fat Products
+https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50
+Difficulty: Easy
+Category: Basic Select
+*/
+
+SELECT 
+    product_id
+FROM 
+    Products
+WHERE 
+    low_fats = 'Y' 
+    AND recyclable = 'Y';

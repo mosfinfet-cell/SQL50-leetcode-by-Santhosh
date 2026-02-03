@@ -10,4 +10,8 @@ This repository contains my solutions to the **LeetCode SQL 50** study plan. As 
     * Subqueries & CTEs (Common Table Expressions)
     * Data Aggregation & Grouping
 
+## 📁 LeetCode SQL 50 Progress
 
+| # | Problem | Category | Solution | Difficulty |
+|---|---------|----------|----------|------------|
+| 1757 | [Recyclable and Low Fat Products] | Basic Select | [View Code](./Basic-Select/1757-recyclable-and-low-fat-products.sql) | Easy |

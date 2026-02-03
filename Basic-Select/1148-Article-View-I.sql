@@ -1,8 +1,8 @@
 /* 
 Problem: 1148-Article-View-I
-Link: 
-Difficulty: 
-Category:
+Link: https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50
+Difficulty: Easy
+Category: Basic Select
 */
 # Write your MySQL query statement below
 SELECT 

@@ -10,7 +10,4 @@ This repository contains my solutions to the **LeetCode SQL 50** study plan. As 
     * Subqueries & CTEs (Common Table Expressions)
     * Data Aggregation & Grouping
 
-## 📊 Highlighted Problem: Managers with 5+ Reports
-* **Problem Link:** [LeetCode #570]
-* **Key Concept:** Self-Join & Group By
-* **My Approach:** Used a self-join to map employee IDs to manager IDs, then filtered using `HAVING COUNT(*) >= 5`.
+
